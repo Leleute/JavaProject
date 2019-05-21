@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package projetjava;
-
+private int a;
 /**
  *
  * @author Matthieu
