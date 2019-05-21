@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package projetjava;
-private int a;
+
 /**
  *
  * @author Matthieu
@@ -16,6 +16,7 @@ public class ProjetJava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int a;
     }
     
 }
