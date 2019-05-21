@@ -10,8 +10,6 @@ package projetjava;
  * @author Matthieu
  */
 public class ProjetJava {
-    private int test;
-    public int test2;
 
     /**
      * @param args the command line arguments
