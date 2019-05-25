@@ -3,7 +3,20 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Java%20Project/Project%20Java/ProjetJava/src/projetjava/ProjetJava.java</file>
+            <file>file:/Applications/MAMP/htdocs/JavaProject3/ProjetJava/src/View/MenuProf.java</file>
+            <file>file:/Applications/MAMP/htdocs/JavaProject3/ProjetJava/src/controller/ProjetJava.java</file>
+            <file>file:/Applications/MAMP/htdocs/JavaProject3/ProjetJava/src/View/SupprimerProf.java</file>
+            <file>file:/Applications/MAMP/htdocs/JavaProject3/ProjetJava/src/View/Menu.java</file>
+            <file>file:/Applications/MAMP/htdocs/JavaProject3/ProjetJava/src/View/AjoutEleve.java</file>
+            <file>file:/Applications/MAMP/htdocs/JavaProject3/ProjetJava/src/View/EleveInfo.java</file>
+            <file>file:/Applications/MAMP/htdocs/JavaProject3/ProjetJava/src/View/Fenetre1.java</file>
+            <file>file:/Applications/MAMP/htdocs/JavaProject3/ProjetJava/src/View/FicheEleve.java</file>
+            <file>file:/Applications/MAMP/htdocs/JavaProject3/ProjetJava/src/View/SupprimerEleve.java</file>
+            <file>file:/Applications/MAMP/htdocs/JavaProject3/ProjetJava/src/View/FicheProf.java</file>
+            <file>file:/Applications/MAMP/htdocs/JavaProject3/ProjetJava/src/View/MenuEleve.java</file>
+            <file>file:/Applications/MAMP/htdocs/JavaProject3/ProjetJava/src/View/AjoutProf.java</file>
+            <file>file:/Applications/MAMP/htdocs/JavaProject3/ProjetJava/src/View/ProfInfo.java</file>
+            <file>file:/Applications/MAMP/htdocs/JavaProject3/ProjetJava/src/View/Fenetre.java</file>
         </group>
     </open-files>
 </project-private>

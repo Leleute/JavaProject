@@ -3,7 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package projetjava;
+package controller;
+import View.Fenetre; 
+
+import java.sql.SQLException;
+import Model.Connexion; 
+import View.Fenetre1;
 
 /**
  *
@@ -14,9 +19,13 @@ public class ProjetJava {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws SQLException, ClassNotFoundException {
+           
         // TODO code application logic here
-        int a;
+  
+        Fenetre1 f = new Fenetre1(); 
+        
+     
     }
     
 }
